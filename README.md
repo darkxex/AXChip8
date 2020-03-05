@@ -1,2 +1,1 @@
-# AXChip8
-Chip 8 emulator for Nintendo Switch.
+Simple Chip 8 Emulator for Nintendo Switch
